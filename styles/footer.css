@@ -1,0 +1,30 @@
+.footer {
+	background-color: #0b1919;
+}
+
+.footer .container {
+}
+
+.footer__social-links {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 30px;
+
+	padding: 22px 0;
+}
+
+.footer-copyright {
+	font-size: 12px;
+	line-height: 16px;
+
+	color: #899d9d;
+	background-color: #1d2f30;
+
+	text-align: center;
+}
+
+.footer-copyright p {
+	padding: 2px 0;
+	margin: 0;
+}
